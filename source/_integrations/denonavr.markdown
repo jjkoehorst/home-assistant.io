@@ -87,6 +87,7 @@ Known supported devices:
 - Marantz CINEMA 50
 - Marantz CINEMA 60
 - Marantz CINEMA 70s
+- Marantz STEREO 70s
 - Marantz M-CR510
 - Marantz M-CR511
 - Marantz M-CR603
